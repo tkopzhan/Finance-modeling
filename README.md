@@ -5,3 +5,6 @@ data using Python. Topics include analysis of properties of historical equity re
 
 I will be downloading,  preparing,  and  analyzing  large  data  sets  from  public  sources  including  Yahoo! Finance, the Fama-French data library, the Federal Reserve Bank of St. Louis’s FRED database, and the SEC’s EDGAR database. 
 
+
+
+# first topic is to get to know how to use python
